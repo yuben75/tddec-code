@@ -7,7 +7,7 @@ SILENCE = @
 COMPONENT_NAME = BookCode_CppUTest
 
 #--- Inputs ----#
-#CPPUTEST_HOME = CppUTest
+CPPUTEST_HOME = ../cpputest
 CPP_PLATFORM = Gcc
 PROJECT_HOME_DIR = .
 
